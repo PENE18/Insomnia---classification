@@ -1,5 +1,5 @@
 # Insomnia--classification
-# Table of content
+### Table of content
 - Overview
 - motivation
 - Technical Aspect
