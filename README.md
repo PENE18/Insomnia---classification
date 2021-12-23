@@ -14,5 +14,5 @@
     This project is divided into two part:
     1. Explotary Data Analysis
     2. Building a machine learning model (Catboost):
-        * Training Pipeline
-        * Testing the model
+        - Training Pipeline
+        - Testing the model
